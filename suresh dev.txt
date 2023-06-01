@@ -4,3 +4,5 @@ suresh dev
 2.welcome screen
 3.final screen
 4.images,videos and other miscellaneous
+adding new audio and video features
+other miscellaneous features that are quite interesting.
